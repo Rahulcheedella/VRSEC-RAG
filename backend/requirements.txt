@@ -1,0 +1,16 @@
+flask
+flask-cors
+requests
+python-dotenv
+
+torch
+
+langchain-core
+langchain-community
+langchain-huggingface
+chromadb
+
+sentence-transformers
+transformers
+huggingface-hub
+pypdf  
